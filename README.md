@@ -186,7 +186,7 @@ The project presentation summarizes the development process, system design, and 
 
 **Presentation**
 
-[HiveCare Presentation](HiveCarePresentation.pdf)
+[HiveCare Presentation](Hive Care Presentation.pdf)
 
 ### Demonstration Video
 
