@@ -170,7 +170,7 @@ Main entities include:
 
 ### Source Code
 
-Complete project source code is included in this repository.
+[Source Code](HiveCare(7).zip)
 
 ### Database
 
@@ -178,7 +178,7 @@ The SQL database is provided.
 
 **Database File**
 
-`hivecare.sql`
+[Database File](hivecare.sql)
 
 ### Presentation
 
