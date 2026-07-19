@@ -169,8 +169,8 @@ Main entities include:
 ## Project Resources
 
 ### Source Code
+Source Code is provided in the repository
 
-[Source Code](hivecarenew(7).zip)
 
 ### Database
 
